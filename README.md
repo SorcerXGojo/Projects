@@ -1,11 +1,11 @@
-# 🎮 Making Games with Python 🚀
+# Python Projects 🚀
 
-Welcome to my **Game Development Journey with Python!** 🕹️ Every two days, I'll be creating and sharing a new Python game to sharpen my skills. You can learn from this repository and strengthen your Python fundamentals! 💡🔥
+Welcome to my **Journey with Python!** 🕹️ Every two days, I'll be creating and sharing a new Python Project to sharpen my skills. You can learn from this repository and strengthen your Python fundamentals! 💡🔥
 
 ## 📌 What's Inside?
-✅ Simple to Advanced Python Games 🎯  
+✅ Simple to Advanced Python Projects 🎯  
 ✅ Fun and Creative Coding Challenges 🤖  
-✅ Best Practices for Game Development 🎮  
+✅ Best Practices for Coding 🎮  
 ✅ A Step-by-Step Learning Experience 🚀  
 
 ---
@@ -32,7 +32,7 @@ while True:
 ---
 
 ## 🚀 Let's Code and Have Fun! 🔥
-If you love coding and want to build awesome games, **star ⭐ this repo** and stay tuned for updates! 🎮💡
+If you love coding and want to build awesome projects, **star ⭐ this repo** and stay tuned for updates! 🎮💡
 
 ---
 
